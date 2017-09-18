@@ -1,43 +1,43 @@
 /* Check out different colors here: https://www.materialpalette.com/ */
 body{
 	height: 100vh;
-	width: 100%;
+	width: 100vw;
 	text-align: center;
 	font-size: 50px;
 }
 
 .yellow {
   background-color: #FFCD72;
-  width: 50%;
-  height: 50%;
+  width: 50vw;
+  height: 50vh;
   display: inline-block;
 }
 
 .pink {
   background-color: #FE7796;
-  height: 15%;
-  width: 30%;
+  height: 15vh;
+  width: 30vw;
   display: inline-block;
 }
 
 .orange {
   background-color: #FE7831;
-  height: 15%;
-  width: 10%;
+  height: 15vh;
+  width: 10vw;
   display: inline-block;
 }
 
 .white {
 	background-color: #FFFFFF;
-	height: 50%;
-	width: 50%;
+	height: 50vh;
+	width: 50vw;
 	display: inline-block;
 }
 
 .black{
 	background-color: #121212;
-	height: 65%;
-	width: 40%;
+	height: 65vh;
+	width: 40vw;
 	display: inline-block;
 }
 
