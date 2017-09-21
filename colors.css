@@ -8,24 +8,24 @@ body{
 }
 
 .yellow {
-  background-color: #FFCD72;
-  width: 50vw;
-  height: 50vh;
-  display: inline-block;
+	background-color: #FFCD72;
+	width: 50vw;
+	height: 50vh;
+	display: inline-block;
 }
 
 .pink {
-  background-color: #FE7796;
-  height: 15vh;
-  width: 30vw;
-  display: inline-block;
+	background-color: #FE7796;
+ 	height: 15vh;
+  	width: 30vw;
+  	display: inline-block;
 }
 
 .orange {
-  background-color: #FE7831;
-  height: 15vh;
-  width: 10vw;
-  display: inline-block;
+  	background-color: #FE7831;
+  	height: 15vh;
+  	width: 10vw;
+  	display: inline-block;
 }
 
 .white {
